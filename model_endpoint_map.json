@@ -1,0 +1,27 @@
+{
+  "o3-xxx": [
+    {
+      "session_id": "",
+      "message_id": "",
+      "mode": "direct_chat"
+    },
+    {
+      "session_id": "session_for_battle_A",
+      "message_id": "message_for_battle_A",
+      "mode": "battle",
+      "battle_target": "A"
+    },
+    {
+      "session_id": "session_for_battle_B",
+      "message_id": "message_for_battle_B",
+      "mode": "battle",
+      "battle_target": "B"
+    }
+  ],
+  "gemini-xxx": {
+      "session_id": "session_for_battle_A",
+      "message_id": "message_for_battle_A",
+      "mode": "battle",
+      "battle_target": "A"
+    }
+}
